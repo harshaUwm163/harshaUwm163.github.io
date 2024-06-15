@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://harshaUwm163.github.io/sitemap.xml
+Sitemap: https://harshaUwm163.github.io/al-folio/sitemap.xml
